@@ -1,0 +1,471 @@
+{
+    "products": [
+        {
+            "product_id": "P001",
+            "name": "Laptop",
+            "category": "Electronics",
+            "quantity_in_stock": 50,
+            "reorder_level": 10,
+            "reorder_quantity": 20,
+            "unit_price": 999.99,
+            "vendor_id": "V001",
+            "active": true
+        },
+        {
+            "product_id": "P002",
+            "name": "Mouse",
+            "category": "Electronics",
+            "quantity_in_stock": 200,
+            "reorder_level": 50,
+            "reorder_quantity": 100,
+            "unit_price": 25.99,
+            "vendor_id": "V001",
+            "active": true
+        },
+        {
+            "product_id": "P003",
+            "name": "Keyboard",
+            "category": "Electronics",
+            "quantity_in_stock": 150,
+            "reorder_level": 30,
+            "reorder_quantity": 50,
+            "unit_price": 49.99,
+            "vendor_id": "V001",
+            "active": true
+        },
+        {
+            "product_id": "P004",
+            "name": "Monitor",
+            "category": "Electronics",
+            "quantity_in_stock": 30,
+            "reorder_level": 5,
+            "reorder_quantity": 10,
+            "unit_price": 199.99,
+            "vendor_id": "V005",
+            "active": true
+        },
+        {
+            "product_id": "P005",
+            "name": "Printer",
+            "category": "Electronics",
+            "quantity_in_stock": 20,
+            "reorder_level": 5,
+            "reorder_quantity": 10,
+            "unit_price": 149.99,
+            "vendor_id": "V005",
+            "active": true
+        },
+        {
+            "product_id": "P006",
+            "name": "Notebook",
+            "category": "Stationery",
+            "quantity_in_stock": 500,
+            "reorder_level": 100,
+            "reorder_quantity": 200,
+            "unit_price": 2.99,
+            "vendor_id": "V004",
+            "active": true
+        },
+        {
+            "product_id": "P007",
+            "name": "Pen",
+            "category": "Stationery",
+            "quantity_in_stock": 1000,
+            "reorder_level": 200,
+            "reorder_quantity": 500,
+            "unit_price": 1.5,
+            "vendor_id": "V004",
+            "active": true
+        },
+        {
+            "product_id": "P008",
+            "name": "Pencil",
+            "category": "Stationery",
+            "quantity_in_stock": 800,
+            "reorder_level": 150,
+            "reorder_quantity": 300,
+            "unit_price": 0.75,
+            "vendor_id": "V004",
+            "active": true
+        },
+        {
+            "product_id": "P009",
+            "name": "Chair",
+            "category": "Furniture",
+            "quantity_in_stock": 40,
+            "reorder_level": 10,
+            "reorder_quantity": 20,
+            "unit_price": 89.99,
+            "vendor_id": "V006",
+            "active": true
+        },
+        {
+            "product_id": "P010",
+            "name": "Desk",
+            "category": "Furniture",
+            "quantity_in_stock": 25,
+            "reorder_level": 5,
+            "reorder_quantity": 10,
+            "unit_price": 199.99,
+            "vendor_id": "V006",
+            "active": true
+        },
+        {
+            "product_id": "P011",
+            "name": "Lamp",
+            "category": "Furniture",
+            "quantity_in_stock": 60,
+            "reorder_level": 15,
+            "reorder_quantity": 30,
+            "unit_price": 39.99,
+            "vendor_id": "V006",
+            "active": true
+        },
+        {
+            "product_id": "P012",
+            "name": "Coffee Mug",
+            "category": "Kitchen",
+            "quantity_in_stock": 300,
+            "reorder_level": 50,
+            "reorder_quantity": 100,
+            "unit_price": 9.99,
+            "vendor_id": "V002",
+            "active": true
+        },
+        {
+            "product_id": "P013",
+            "name": "Water Bottle",
+            "category": "Kitchen",
+            "quantity_in_stock": 250,
+            "reorder_level": 40,
+            "reorder_quantity": 80,
+            "unit_price": 14.99,
+            "vendor_id": "V002",
+            "active": true
+        },
+        {
+            "product_id": "P014",
+            "name": "Headphones",
+            "category": "Electronics",
+            "quantity_in_stock": 80,
+            "reorder_level": 20,
+            "reorder_quantity": 40,
+            "unit_price": 79.99,
+            "vendor_id": "V003",
+            "active": true
+        },
+        {
+            "product_id": "P015",
+            "name": "Speakers",
+            "category": "Electronics",
+            "quantity_in_stock": 45,
+            "reorder_level": 10,
+            "reorder_quantity": 20,
+            "unit_price": 59.99,
+            "vendor_id": "V003",
+            "active": true
+        },
+        {
+            "product_id": "P016",
+            "name": "USB Drive",
+            "category": "Electronics",
+            "quantity_in_stock": 120,
+            "reorder_level": 25,
+            "reorder_quantity": 50,
+            "unit_price": 19.99,
+            "vendor_id": "V001",
+            "active": true
+        },
+        {
+            "product_id": "P017",
+            "name": "Stapler",
+            "category": "Stationery",
+            "quantity_in_stock": 180,
+            "reorder_level": 30,
+            "reorder_quantity": 60,
+            "unit_price": 12.99,
+            "vendor_id": "V004",
+            "active": true
+        },
+        {
+            "product_id": "P018",
+            "name": "Tape",
+            "category": "Stationery",
+            "quantity_in_stock": 200,
+            "reorder_level": 40,
+            "reorder_quantity": 80,
+            "unit_price": 3.99,
+            "vendor_id": "V004",
+            "active": true
+        },
+        {
+            "product_id": "P019",
+            "name": "Whiteboard",
+            "category": "Office",
+            "quantity_in_stock": 2,
+            "reorder_level": 3,
+            "reorder_quantity": 5,
+            "unit_price": 49.99,
+            "vendor_id": "V002",
+            "active": true
+        },
+        {
+            "product_id": "P020",
+            "name": "Projector",
+            "category": "Electronics",
+            "quantity_in_stock": 10,
+            "reorder_level": 2,
+            "reorder_quantity": 4,
+            "unit_price": 299.99,
+            "vendor_id": "V005",
+            "active": true
+        },
+        {
+            "product_id": "P021",
+            "name": "Router",
+            "category": "Electronics",
+            "quantity_in_stock": 35,
+            "reorder_level": 7,
+            "reorder_quantity": 15,
+            "unit_price": 89.99,
+            "vendor_id": "V001",
+            "active": true
+        },
+        {
+            "product_id": "P022",
+            "name": "Calendar",
+            "category": "Stationery",
+            "quantity_in_stock": 100,
+            "reorder_level": 20,
+            "reorder_quantity": 40,
+            "unit_price": 7.99,
+            "vendor_id": "V004",
+            "active": true
+        },
+        {
+            "product_id": "P023",
+            "name": "Shelf",
+            "category": "Furniture",
+            "quantity_in_stock": 20,
+            "reorder_level": 4,
+            "reorder_quantity": 8,
+            "unit_price": 79.99,
+            "vendor_id": "V006",
+            "active": true
+        },
+        {
+            "product_id": "P024",
+            "name": "Phone Charger",
+            "category": "Electronics",
+            "quantity_in_stock": 180,
+            "reorder_level": 40,
+            "reorder_quantity": 80,
+            "unit_price": 15.99,
+            "vendor_id": "V003",
+            "active": true
+        },
+        {
+            "product_id": "P025",
+            "name": "Scissors",
+            "category": "Stationery",
+            "quantity_in_stock": 90,
+            "reorder_level": 18,
+            "reorder_quantity": 36,
+            "unit_price": 4.99,
+            "vendor_id": "V004",
+            "active": true
+        },
+        {
+            "product_id": "P026",
+            "name": "Tablet",
+            "category": "Electronics",
+            "quantity_in_stock": 25,
+            "reorder_level": 5,
+            "reorder_quantity": 10,
+            "unit_price": 399.99,
+            "vendor_id": "V003",
+            "active": true
+        }
+    ],
+    "vendors": [
+        {
+            "vendor_id": "V001",
+            "name": "Tech Supplies Inc.",
+            "contact_name": "John Doe",
+            "phone": "123-456-7890",
+            "email": "john@techsup.com",
+            "address": "123 Tech St, CA"
+        },
+        {
+            "vendor_id": "V002",
+            "name": "Office Essentials",
+            "contact_name": "Jane Smith",
+            "phone": "987-654-3210",
+            "email": "jane@office.com",
+            "address": "456 Office Ave, NY"
+        },
+        {
+            "vendor_id": "V003",
+            "name": "Gadget World",
+            "contact_name": "Bob Johnson",
+            "phone": "555-123-4567",
+            "email": "bob@gadget.com",
+            "address": "789 Gadget Blvd, TX"
+        },
+        {
+            "vendor_id": "V004",
+            "name": "Stationery Plus",
+            "contact_name": "Alice Brown",
+            "phone": "444-567-8901",
+            "email": "alice@stationery.com",
+            "address": "101 Paper Rd, FL"
+        },
+        {
+            "vendor_id": "V005",
+            "name": "Electronics Hub",
+            "contact_name": "Charlie Wilson",
+            "phone": "333-789-0123",
+            "email": "charlie@electronics.com",
+            "address": "202 Circuit Ln, WA"
+        },
+        {
+            "vendor_id": "V006",
+            "name": "Home Goods Co.",
+            "contact_name": "Diana Lee",
+            "phone": "222-345-6789",
+            "email": "diana@homegoods.com",
+            "address": "303 Home St, IL"
+        }
+    ],
+    "purchase_orders": [
+        {
+            "po_number": "PO001",
+            "vendor_id": "V001",
+            "date_created": "2023-01-01",
+            "items": [
+                {
+                    "product_id": "P001",
+                    "quantity": 10
+                },
+                {
+                    "product_id": "P002",
+                    "quantity": 50
+                }
+            ],
+            "total_cost": 10499.5,
+            "status": "Open"
+        },
+        {
+            "po_number": "PO002",
+            "vendor_id": "V004",
+            "date_created": "2023-01-05",
+            "items": [
+                {
+                    "product_id": "P006",
+                    "quantity": 100
+                },
+                {
+                    "product_id": "P007",
+                    "quantity": 200
+                }
+            ],
+            "total_cost": 415.0,
+            "status": "Open"
+        },
+        {
+            "po_number": "PO003",
+            "vendor_id": "V006",
+            "date_created": "2023-01-10",
+            "items": [
+                {
+                    "product_id": "P009",
+                    "quantity": 5
+                },
+                {
+                    "product_id": "P010",
+                    "quantity": 3
+                }
+            ],
+            "total_cost": 769.95,
+            "status": "Open"
+        },
+        {
+            "po_number": "PO004",
+            "vendor_id": "V003",
+            "date_created": "2023-01-15",
+            "items": [
+                {
+                    "product_id": "P014",
+                    "quantity": 20
+                }
+            ],
+            "total_cost": 1599.8,
+            "status": "Open"
+        },
+        {
+            "po_number": "PO005",
+            "vendor_id": "V002",
+            "date_created": "2023-01-20",
+            "items": [
+                {
+                    "product_id": "P012",
+                    "quantity": 50
+                }
+            ],
+            "total_cost": 499.5,
+            "status": "Open"
+        },
+        {
+            "po_number": "PO006",
+            "vendor_id": "V005",
+            "date_created": "2023-01-25",
+            "items": [
+                {
+                    "product_id": "P004",
+                    "quantity": 5
+                }
+            ],
+            "total_cost": 999.95,
+            "status": "Open"
+        },
+        {
+            "po_number": "PO007",
+            "vendor_id": "V001",
+            "date_created": "2023-02-01",
+            "items": [
+                {
+                    "product_id": "P016",
+                    "quantity": 25
+                }
+            ],
+            "total_cost": 499.75,
+            "status": "Open"
+        },
+        {
+            "po_number": "PO008",
+            "vendor_id": "V004",
+            "date_created": "2023-02-05",
+            "items": [
+                {
+                    "product_id": "P017",
+                    "quantity": 30
+                }
+            ],
+            "total_cost": 389.7,
+            "status": "Received"
+        },
+        {
+            "po_number": "PO009",
+            "vendor_id": "V001",
+            "date_created": "2026-05-10",
+            "items": [
+                {
+                    "product_id": "P019",
+                    "quantity": 14
+                }
+            ],
+            "total_cost": 699.86,
+            "status": "Received"
+        }
+    ]
+}

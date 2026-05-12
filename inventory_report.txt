@@ -1,0 +1,27 @@
+Full Inventory Report
+ID: P001, Name: Laptop, Stock: 50, Price: $999.99
+ID: P002, Name: Mouse, Stock: 200, Price: $25.99
+ID: P003, Name: Keyboard, Stock: 150, Price: $49.99
+ID: P004, Name: Monitor, Stock: 30, Price: $199.99
+ID: P005, Name: Printer, Stock: 20, Price: $149.99
+ID: P006, Name: Notebook, Stock: 500, Price: $2.99
+ID: P007, Name: Pen, Stock: 1000, Price: $1.50
+ID: P008, Name: Pencil, Stock: 800, Price: $0.75
+ID: P009, Name: Chair, Stock: 40, Price: $89.99
+ID: P010, Name: Desk, Stock: 25, Price: $199.99
+ID: P011, Name: Lamp, Stock: 60, Price: $39.99
+ID: P012, Name: Coffee Mug, Stock: 300, Price: $9.99
+ID: P013, Name: Water Bottle, Stock: 250, Price: $14.99
+ID: P014, Name: Headphones, Stock: 80, Price: $79.99
+ID: P015, Name: Speakers, Stock: 45, Price: $59.99
+ID: P016, Name: USB Drive, Stock: 120, Price: $19.99
+ID: P017, Name: Stapler, Stock: 180, Price: $12.99
+ID: P018, Name: Tape, Stock: 200, Price: $3.99
+ID: P019, Name: Whiteboard, Stock: 2, Price: $49.99
+ID: P020, Name: Projector, Stock: 10, Price: $299.99
+ID: P021, Name: Router, Stock: 35, Price: $89.99
+ID: P022, Name: Calendar, Stock: 100, Price: $7.99
+ID: P023, Name: Shelf, Stock: 20, Price: $79.99
+ID: P024, Name: Phone Charger, Stock: 180, Price: $15.99
+ID: P025, Name: Scissors, Stock: 90, Price: $4.99
+ID: P026, Name: Tablet, Stock: 25, Price: $399.99

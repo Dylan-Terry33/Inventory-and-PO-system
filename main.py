@@ -3,7 +3,7 @@ main.py - Contains the main menu and starts the program.
 """
 
 from inventory_manager import *
-from file_manager import save_data, load_data, save_sample_data
+from file_manager import save_data, load_data
 from reports import *
 import sys
 
