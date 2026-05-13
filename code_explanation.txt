@@ -1,0 +1,14 @@
+How are products stored in your program?
+Products are stored as a list of Product objects in memory. Each Product has attributes like ID, name, category, stock, etc. They are persisted to JSON by converting to dicts.
+
+How are purchase orders connected to vendors and products?
+Purchase orders reference vendor by vendor_id and contain a list of items, each with product_id and quantity. This links POs to vendors and products.
+
+How does receiving a shipment change inventory?
+When receiving a PO, the program finds each product in the PO items, adds the quantity to the product's stock, and marks the PO as received.
+
+How does your JSON save/load process work?
+Save: Convert objects to dicts, put in a dict with keys for products/vendors/pos, dump to JSON. Load: Read JSON, create objects from dicts, handle missing file.
+
+What is one bug you fixed and how did you fix it?
+Bug: Editing a product allowed invalid vendor IDs. Fix: Added check in edit_product to ensure vendor exists before updating.
